@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yogesh Kannan N
 
-*QA Engineer**
+*QA Engineer*
 
 📍 Bengaluru, India &nbsp;|&nbsp; 💼 Mphasis Ltd.
 
