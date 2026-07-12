@@ -4,7 +4,7 @@
 
 *QA Engineer**
 
-📍 Bengaluru, India &nbsp;|&nbsp; 💼 Mphasis Ltd. (Client: HP Inc.)
+📍 Bengaluru, India &nbsp;|&nbsp; 💼 Mphasis Ltd.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-kannan-n-3b8878175)
 
